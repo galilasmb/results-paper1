@@ -38,7 +38,7 @@ It contains a rain cloud-type chart with only the execution time and without con
 
 ### `rain_cloud_experiment_time.jpg` and `rain_cloud_experiment_time.pdf`
 
-"It contains a rain cloud-type chart with an overall view of the experiment, including the mean, median, and standard deviation."
+It contains a rain cloud-type chart with an overall view of the experiment, including the mean, median, and standard deviation.
 
 ### `rain_cloud_scenarios_time.jpg` and `rain_cloud_scenarios_time.pdf`
 
